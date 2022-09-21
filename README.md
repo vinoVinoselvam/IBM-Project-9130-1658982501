@@ -8,5 +8,12 @@
   <li> Sindhuja.V </li>
   <li> Mayakannan.L </li>
   </ul>
+<br>
 
+<h3> Abstract </h3>
+✨ Students are often worried about their chances of admission to University. <br>
+✨ The aim of this project is to help students in shortlisting universities with their profiles. <br>
+✨ The predicted output gives them a fair idea about their admission chances to a particular university. <br>
+✨ This analysis should also help students who are currently preparing or will be preparing to get a better idea. <br>
 
+  
