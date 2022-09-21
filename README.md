@@ -1,5 +1,8 @@
 # IBM-Project-9130-1658982501
-<h2> University Admit Eligibility Predictor </h2>
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
+<h2 align="center"> University Admit Eligibility Predictor </h2>
+  </div>
 
 <h3> 🧑🏻‍💻Team Members: </h3>
 <ul>
