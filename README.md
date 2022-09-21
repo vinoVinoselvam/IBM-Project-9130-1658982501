@@ -18,5 +18,11 @@
 ✨ The aim of this project is to help students in shortlisting universities with their profiles. <br>
 ✨ The predicted output gives them a fair idea about their admission chances to a particular university. <br>
 ✨ This analysis should also help students who are currently preparing or will be preparing to get a better idea. <br>
+<br>
 
-  
+  <b><i>⛏Tasks:</i></b>
+- [x] Brainstorm and Ideation <br>
+- [x] Empathy Map <br>
+- [x] Assignment 1 <br>
+- [ ] Assignment 2  <br>
+    
