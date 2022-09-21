@@ -31,6 +31,7 @@
   <!-- tasks -->
   <b><i>⛏Tasks:</i></b>
 - [x] Brainstorm and Ideation <br>
+- [x] Problem Statement <br>
 - [x] Empathy Map <br>
 - [x] Assignment 1 <br>
 - [ ] Assignment 2  <br>
