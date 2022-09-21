@@ -12,7 +12,7 @@
 <br>
   
 
-<h3><i>🧑🏻‍💻Team Members: </i></h3>
+<h3><i>🧑🏻‍💻Team Members: </i></h3> 
 <ul>
   <li> Vino.S </li>
   <li> Shruthi.P.G </li>
@@ -29,7 +29,7 @@
 <br>
   
   <!-- tasks -->
-  <b><i>⛏Tasks:</i></b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="30px"><b><i>Tasks:</i></b>
 - [x] Brainstorm and Ideation <br>
 - [x] Problem Statement <br>
 - [x] Empathy Map <br>
