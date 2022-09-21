@@ -26,8 +26,7 @@
 ✨ The predicted output gives them a fair idea about their admission chances to a particular university. <br>
 ✨ This analysis should also help students who are currently preparing or will be preparing to get a better idea. <br>
 <br>
-
-  
+<br>
   
   <!-- tasks -->
   <b><i>⛏Tasks:</i></b>
