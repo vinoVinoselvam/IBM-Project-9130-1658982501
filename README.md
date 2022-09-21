@@ -9,7 +9,6 @@
   <li> Mayakannan.L </li>
   </ul>
 <br>
-
 <h3> Abstract </h3>
 ✨ Students are often worried about their chances of admission to University. <br>
 ✨ The aim of this project is to help students in shortlisting universities with their profiles. <br>
