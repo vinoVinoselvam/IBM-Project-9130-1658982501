@@ -20,13 +20,20 @@
   <li> Mayakannan.L </li>
   </ul>
 <br>
-<h3> <i> 📃Abstract: <i> </h3>
+<h3> <i> 📃Abstract: </i> </h3>
 ✨ Students are often worried about their chances of admission to University. <br>
 ✨ The aim of this project is to help students in shortlisting universities with their profiles. <br>
 ✨ The predicted output gives them a fair idea about their admission chances to a particular university. <br>
 ✨ This analysis should also help students who are currently preparing or will be preparing to get a better idea. <br>
 <br>
 <br>
+  
+  <h2>Domain</h2>
+ <div align="center">
+<img src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/19194410/AI_EmergingTech_2.gif"  align="center" alt="drawing" width="1000" />
+  <h4 align="center"> Applied Data Science <br></h4>
+  </div>
+  
   
   <!-- tasks -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="30px"><b><i>Tasks:</i></b>
