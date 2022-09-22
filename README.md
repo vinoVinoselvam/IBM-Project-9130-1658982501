@@ -13,18 +13,20 @@
   
 
 <h2>🧑🏻‍💻Team Members: </h2> 
-<ul>
-  <li> Vino.S </li>
+<ul><i>
   <li> Shruthi.P.G </li>
+  <li> Vino.S </li>
   <li> Sindhuja.V </li>
   <li> Mayakannan.L </li>
+  </i>
   </ul>
 <br>
-<h2>📃Abstract:</h2>
+<h2>📃Abstract:</h2><i>
 ✨ Students are often worried about their chances of admission to University. <br>
 ✨ The aim of this project is to help students in shortlisting universities with their profiles. <br>
 ✨ The predicted output gives them a fair idea about their admission chances to a particular university. <br>
 ✨ This analysis should also help students who are currently preparing or will be preparing to get a better idea. <br>
+  </i>
 <br>
 <br>
   
