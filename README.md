@@ -12,7 +12,7 @@
 <br>
   
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30px">Team Members: </h2> 
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Members: </h2> 
 <ul><i>
   <li> Shruthi.P.G </li>
   <li> Vino.S </li>
@@ -21,7 +21,7 @@
   </i>
   </ul>
 <br>
-<h2>📃Abstract:</h2><i>
+<h2>📃 Abstract:</h2><i>
 ✨ Students are often worried about their chances of admission to University. <br>
 ✨ The aim of this project is to help students in shortlisting universities with their profiles. <br>
 ✨ The predicted output gives them a fair idea about their admission chances to a particular university. <br>
@@ -30,7 +30,7 @@
 <br>
 <br>
   
-  <h2>Domain</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
  <div align="center">
 <img src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/19194410/AI_EmergingTech_2.gif"  align="center" alt="drawing" width="1000" /><br>
 [ Applied Data Science ]
@@ -38,7 +38,7 @@
  <br>
   
   <!-- tasks -->
-  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="30px">Tasks: </h2>
+  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
   
 - [x] Brainstorm and Ideation <br>
   - [x] Problem Statement <br>
