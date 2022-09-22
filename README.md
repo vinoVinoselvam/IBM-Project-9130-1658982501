@@ -12,7 +12,7 @@
 <br>
   
 
-<h2>🧑🏻‍💻Team Members: </h2> 
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30px">Team Members: </h2> 
 <ul><i>
   <li> Shruthi.P.G </li>
   <li> Vino.S </li>
