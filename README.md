@@ -43,6 +43,7 @@
 - [x] Brainstorm and Ideation <br>
   - [x] Problem Statement <br>
   - [x] Empathy Map <br>
+  - [x] Brainstorming <br>
 - [x] Assignment 1 <br>
 - [ ] Assignment 2  <br>
     
