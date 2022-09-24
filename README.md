@@ -45,5 +45,5 @@
   - [x] Empathy Map <br>
   - [x] Brainstorming <br>
 - [x] Assignment 1 <br>
-- [ ] Assignment 2  <br>
+- [x] Assignment 2  <br>
     
