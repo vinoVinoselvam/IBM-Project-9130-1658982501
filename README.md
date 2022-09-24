@@ -22,12 +22,13 @@
   </ul>
 <br>
 <h2>📃 Abstract:</h2><i>
-✨ Students are often worried about their chances of admission to University. <br>
-✨ The aim of this project is to help students in shortlisting universities with their profiles. <br>
-✨ The predicted output gives them a fair idea about their admission chances to a particular university. <br>
-✨ This analysis should also help students who are currently preparing or will be preparing to get a better idea. <br>
+<ul>
+<li>Students are often worried about their chances of admission to University. </li>
+<li>The aim of this project is to help students in shortlisting universities with their profiles. </li>
+<li>The predicted output gives them a fair idea about their admission chances to a particular university. </li>
+<li>This analysis should also help students who are currently preparing or will be preparing to get a better idea. </li>
   </i>
-<br>
+  </ul>
 <br>
   
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
