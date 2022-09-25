@@ -32,9 +32,18 @@
 <br>
   
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
- <div align="center">
-<img src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/19194410/AI_EmergingTech_2.gif"  align="center" alt="drawing" width="1000" /><br>
-[ Applied Data Science ]
+
+<p float="left">
+    <img src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width=500>
+    <img src="https://miro.medium.com/max/1400/0*7-8r0x-nRpuJm7bw.gif" width=500>
+</p>
+<div align="center">
+<table> 
+  <tr>
+    <td>Applied Data Science</td>
+  </tr>
+ </table>
+
   </div>
  <br>
   
