@@ -33,9 +33,9 @@
   
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
 
-<p float="left">
-    <img src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width=500>
-    <img src="https://miro.medium.com/max/1400/0*7-8r0x-nRpuJm7bw.gif" width=500>
+<p float="middle">
+    <img src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width=400>
+    <img src="https://miro.medium.com/max/1400/0*7-8r0x-nRpuJm7bw.gif" width=400>
 </p>
 <div align="center">
 <table> 
